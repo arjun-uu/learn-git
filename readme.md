@@ -1,8 +1,5 @@
 # Learn about git and gitHub
 
-``` JavaScript
-console.log("learn-git");
-
 ---
 
 ## 1️⃣ Git vs GitHub
